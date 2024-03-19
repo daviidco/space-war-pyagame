@@ -128,7 +128,7 @@ def player_selection_menu():
     while run:
         WIN.fill(BLACK)
         font = pygame.font.SysFont(None, 30)
-        title = font.render("Pilot A452, selecciona tu nave", True, WHITE)
+        title = font.render("Piloto A452, selecciona tu nave", True, WHITE)
         WIN.blit(title, (WIDTH // 2 - title.get_width() // 2, 50))
 
         MARGIN = 10
