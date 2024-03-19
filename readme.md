@@ -14,6 +14,17 @@ El objetivo del juego es sobrevivir el mayor tiempo posible esquivando los objet
 3. Esquiva los objetos espaciales que caen desde arriba.
 4. Sobrevive tanto tiempo como puedas y trata de obtener la mayor puntuación posible.
 
+##Controles
+
+Flecha izquierda: Mover la nave hacia la izquierda.
+Flecha derecha: Mover la nave hacia la derecha.
+
+##Capturas de pantalla
+
+![img.png](screenshots-logo/ss_init_game.png)
+![img_1.png](screenshots-logo/ss_game.png)
+
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
@@ -47,13 +58,6 @@ El objetivo del juego es sobrevivir el mayor tiempo posible esquivando los objet
     ```bash 
     python main.py
    ```
-
-##Controles
-Flecha izquierda: Mover la nave hacia la izquierda.
-Flecha derecha: Mover la nave hacia la derecha.
-
-##Capturas de pantalla
-![img.png](screenshots-logo/ss_init_game.png)
-![img_1.png](screenshots-logo/ss_game.png)
+   
 
 ¡Diviértete jugando!
