@@ -14,12 +14,12 @@ El objetivo del juego es sobrevivir el mayor tiempo posible esquivando los objet
 3. Esquiva los objetos espaciales que caen desde arriba.
 4. Sobrevive tanto tiempo como puedas y trata de obtener la mayor puntuación posible.
 
-##Controles
+## Controles
 
 Flecha izquierda: Mover la nave hacia la izquierda.
 Flecha derecha: Mover la nave hacia la derecha.
 
-##Capturas de pantalla
+## Capturas de pantalla
 
 ![img.png](screenshots-logo/ss_init_game.png)
 ![img_1.png](screenshots-logo/ss_game.png)
