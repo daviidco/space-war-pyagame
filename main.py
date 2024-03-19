@@ -9,7 +9,7 @@ pygame.init()
 # Configuración de la pantalla
 WIDTH, HEIGHT = 600, 300
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Space Shooter")
+pygame.display.set_caption("Space War")
 
 # Colores
 WHITE = (255, 255, 255)
@@ -109,6 +109,9 @@ def main():
         waiting_for_input = True
         while waiting_for_input:
             for event in pygame.event.get():
+                if event.type == pygame.QUIT:
+                    pygame.quit()
+                    sys.exit()
                 if event.type == pygame.KEYDOWN:
                     if event.key == pygame.K_ESCAPE:
                         pygame.quit()
